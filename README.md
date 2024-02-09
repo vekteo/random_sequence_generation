@@ -1,1 +1,1 @@
-# random_sequence_generation
+# Random Sequence Generation
